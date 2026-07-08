@@ -1,0 +1,14 @@
+order_id,customer,city,category,product,quantity,unit_price,discount_rate,rating,is_member,order_date
+101,Ayşe,Istanbul,Elektronik,Kulaklık,2,750,0.1,4.8,True,2026-06-01
+102,Mehmet,Ankara,Kitap,Python Kitabı,1,420,0.0,4.2,False,2026-06-02
+103,Zeynep,Izmir,Giyim,Tişört,3,280,0.15,3.9,True,2026-06-03
+104,Ali,Istanbul,Market,Kahve,4,190,0.05,4.6,False,2026-06-04
+105,Elif,Bursa,Elektronik,Mouse,1,530,0.2,4.9,True,2026-06-05
+106,Can,Ankara,Spor,Mat,2,350,0.0,3.5,False,2026-06-06
+107,Derya,Izmir,Kitap,Veri Bilimi,2,610,0.1,4.7,True,2026-06-07
+108,Burak,Istanbul,Giyim,Ayakkabı,1,1250,0.25,4.1,False,2026-06-08
+109,Merve,Bursa,Market,Çay,5,95,0.0,4.4,True,2026-06-09
+110,Emre,Ankara,Elektronik,Klavye,1,980,0.05,4.0,False,2026-06-10
+111,Selin,Izmir,Spor,Dambıl,2,460,0.1,4.3,True,2026-06-11
+112,Okan,Istanbul,Kitap,SQL Kitabı,1,390,0.0,3.8,False,2026-06-12
+113,Ali,Isparta,Defter,SQL Defteri,1,280,0.0,3.8,False,2026-06-13
