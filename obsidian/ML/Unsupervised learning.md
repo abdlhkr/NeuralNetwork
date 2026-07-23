@@ -1,0 +1,3 @@
+Training a [**model**](https://developers.google.com/machine-learning/glossary#model) to find patterns in a dataset, typically an unlabeled dataset.
+
+The most common use of unsupervised machine learning is to [**cluster**](https://developers.google.com/machine-learning/glossary#clustering) data into groups of similar examples. For example, an unsupervised machine learning algorithm can cluster songs based on various properties of the music. The resulting clusters can become an input to other machine learning algorithms (for example, to a music recommendation service). Clustering can help when useful labels are scarce or absent. For example, in domains such as anti-abuse and fraud, clusters can help humans better understand the data.
